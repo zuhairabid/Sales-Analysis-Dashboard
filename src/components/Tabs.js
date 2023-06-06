@@ -6,7 +6,7 @@ function Tabs() {
   //   const [value, setTabs] = useState(0);
   return (
     <div className="flex flex-wrap">
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="0"
@@ -17,7 +17,7 @@ function Tabs() {
           Merchandising Dashboard
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="1"
@@ -28,7 +28,7 @@ function Tabs() {
           Overall Performance
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="2"
@@ -39,7 +39,7 @@ function Tabs() {
           Regional Sales
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="3"
@@ -50,7 +50,7 @@ function Tabs() {
           Subclass Performance
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="4"
@@ -61,7 +61,7 @@ function Tabs() {
           Weekly Sales Analysis
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="5"
@@ -72,7 +72,7 @@ function Tabs() {
           History of Subclass
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="6"
@@ -83,7 +83,7 @@ function Tabs() {
           LOC SOH
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="7"
@@ -94,7 +94,7 @@ function Tabs() {
           vs LY
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="8"
@@ -105,7 +105,7 @@ function Tabs() {
           SSN Wise
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="9"
@@ -116,7 +116,7 @@ function Tabs() {
           SC SSN
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="10"
@@ -127,7 +127,7 @@ function Tabs() {
           Brand
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="11"
@@ -138,7 +138,7 @@ function Tabs() {
           SOH and Inwards Analysis
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="12"
@@ -149,7 +149,7 @@ function Tabs() {
           Inventory Optimization
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="13"
@@ -160,7 +160,7 @@ function Tabs() {
           Summary
         </button>
       </div>
-      <div classname="m">
+      <div className="m">
         <button
           className="bg-green-500 rounded-md p-3 text-xs m-1"
           value="14"

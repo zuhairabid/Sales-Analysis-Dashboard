@@ -33,8 +33,6 @@ function OverallPerformance() {
           width: div1.current.offsetWidth,
 
           paper_bgcolor: "lightgray",
-
-          margin: { t: 0, b: 0, l: 0, r: 0 },
         }}
       />
     );
@@ -60,8 +58,6 @@ function OverallPerformance() {
           width: div1.current.offsetWidth,
 
           paper_bgcolor: "lightgray",
-
-          margin: { t: 0, b: 0, l: 0, r: 0 },
         }}
       />
     );
@@ -87,8 +83,6 @@ function OverallPerformance() {
           width: div1.current.offsetWidth,
 
           paper_bgcolor: "lightgray",
-
-          margin: { t: 0, b: 0, l: 0, r: 0 },
         }}
       />
     );
@@ -114,8 +108,6 @@ function OverallPerformance() {
           width: div1.current.offsetWidth,
 
           paper_bgcolor: "lightgray",
-
-          margin: { t: 0, b: 0, l: 0, r: 0 },
         }}
       />
     );
@@ -138,8 +130,6 @@ function OverallPerformance() {
           width: lineChartWidth.current.offsetWidth,
 
           paper_bgcolor: "lightgray",
-
-          margin: { t: 0, b: 0, l: 0, r: 0 },
         }}
       />
     );
